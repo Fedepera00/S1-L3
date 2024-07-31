@@ -1,0 +1,89 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+.container {
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.header-text {
+  font-size: 7px;
+  color: #4b4b4b;
+  margin-top: 5px;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.hero h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 8px;
+  text-align: justify;
+  color: #666;
+  margin-bottom: 20x;
+}
+
+.hero-image {
+  width: 60%;
+  height: auto;
+  margin-bottom: 50px;
+}
+
+.featured-in {
+  font-size: 14px;
+  color: #a81111;
+  margin-bottom: 10px;
+}
+
+.featured-link:hover {
+  text-decoration: underline;
+}
+
+.content h2 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+.content h3 {
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.ingredients li {
+  font-size: 9px;
+  margin-bottom: 5px;
+}
+
+.method li {
+  font-size: 9px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.read-more {
+  font-size: 9px;
+  display: inline-block;
+  color: #066456;
+}
